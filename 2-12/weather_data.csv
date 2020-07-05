@@ -1,0 +1,8 @@
+day,temperature,windspeed,event
+01-01-17,32 F,6mph,Rain
+01-02-17,-99999,7,Sunny
+01-03-17,28 F,-99999,Snow
+01-04-17,-99999,7mph,no event
+01-05-17,32 C,-55555,Rain
+01-06-17,31,2,Sunny
+01-06-17,34,5,no event
