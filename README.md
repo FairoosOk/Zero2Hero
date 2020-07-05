@@ -7,7 +7,7 @@ Course Materials:
               
               THE TOPICS WE COVER
               
-#1-0 SESSION 1 : PYTHON PROGRAMMING
+### 1-0 SESSION 1 : PYTHON PROGRAMMING
 #1-1 How to install Python?
 #1-2 What is a Module?
 #1-3 Py Files
@@ -32,7 +32,7 @@ Course Materials:
 #1-22 Working with JSON
 #1-23 Session 1: Conclusion
 
-#2-0 SESSION 2 : NUMPY, PANDAS & MATPLOTLIB
+### 2-0 SESSION 2 : NUMPY, PANDAS & MATPLOTLIB
 #2-1 Jupyter Notebook 
 #2-2 Numpy Module 
 #2-3 Numpy Arrays
@@ -55,14 +55,14 @@ Course Materials:
 #2-20 Pie Chart and Save plot images
 #2-21 Session 2: Conclusion
 
-#3-0 SESSION 3 : MACHINE LEARNING & SCIKIT LEARN
+### 3-0 SESSION 3 : MACHINE LEARNING & SCIKIT LEARN
 #3-1 Linear Regression
 #3-2 Linear Regression Multivariate
 #3-3 How Gradient Descent
-# 3-4 Gradient Descent Implementation
+#3-4 Gradient Descent Implementation
 #3-5 Save and Load model
 #3-6 Dummy Variables
-# 3-7 One Hot Encoding
+#3-7 One Hot Encoding
 #3-8 Train Test Split
 #3-9 Logistic Regression with Logit Function
 #3-10 Logistic Regression Binary Classification
@@ -79,7 +79,7 @@ Course Materials:
 #3-21 K-Means Implementation
 #3-22 Session 3: Conclusion
 
-#4-0 SESSION 4 : DATA SCIENCE & MACHINE LEARNING PROJECT
+### 4-0 SESSION 4 : DATA SCIENCE & MACHINE LEARNING PROJECT
 #4-1 Data Cleaning
 #4-2 Feature Engineering
 #4-3 Outlier Removal
@@ -92,5 +92,5 @@ Course Materials:
 #4-10 Flask Server Running
 #4-11 Website UI
 #4-12 Session 4: Conclusion
-# 5   Course: Conclusion
+#5   Course: Conclusion
 
